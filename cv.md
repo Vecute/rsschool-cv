@@ -7,8 +7,11 @@
 ### Contact information
 
 **Phone:** +375291568578
+
 **E-mail:** vecutem@gmail.com
+
 **Telegram:** @vesg12
+
 [**LinkedIn**](https://www.linkedin.com/in/gleb-khramtsov-95b794238/)
 
 ### About Myself
@@ -20,14 +23,21 @@ Fast learner, attentive and responsible.
 ### MY Skills
 
 Git, GitHub
+
 YouTrack, Jira, Confluence, Zendesk
+
 Adobe Photoshop, Autodesk Autocad
+
 MS Word, MS Excel, MS PowerPoint
+
 Html5, CSS3
+
 JavaScript Basics
 
 ### Languages
 
 Russian - native
+
 Belarusian - native
+
 English - [**C1 EF SET**](https://www.efset.org/cert/oFYArN)
