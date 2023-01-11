@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/Vecute/rsschool-cv/cv.md
+https://vecute.github.io/rsschool-cv/
