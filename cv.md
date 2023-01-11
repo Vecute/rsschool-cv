@@ -36,8 +36,6 @@ JavaScript Basics
 
 ### Languages
 
-Russian - native
-
-Belarusian - native
-
-English - [**C1 EF SET**](https://www.efset.org/cert/oFYArN)
+Russian       |   native 
+Belarusian    |   native
+English       |   [**C1 EF SET**](https://www.efset.org/cert/oFYArN)
