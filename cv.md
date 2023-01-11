@@ -22,20 +22,22 @@ Fast learner, attentive and responsible.
 
 ### MY Skills
 
-Git, GitHub
+* Git, GitHub
 
-YouTrack, Jira, Confluence, Zendesk
+* YouTrack, Jira, Confluence, Zendesk
 
-Adobe Photoshop, Autodesk Autocad
+* Adobe Photoshop, Autodesk Autocad
 
-MS Word, MS Excel, MS PowerPoint
+* MS Word, MS Excel, MS PowerPoint
 
-Html5, CSS3
+* Html5, CSS3
 
-JavaScript Basics
+* JavaScript Basics
 
 ### Languages
 
-Russian       |   native 
-Belarusian    |   native
-English       |   [**C1 EF SET**](https://www.efset.org/cert/oFYArN)
+* Russian - native
+
+* Belarusian - native
+
+* English - [**C1 EF SET**](https://www.efset.org/cert/oFYArN)
