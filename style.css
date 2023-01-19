@@ -144,6 +144,7 @@
     color: #157988;
     text-decoration: none;  
     transition: color 0.5s;
+    target: _blank;
 }
 .links:hover {
     color: #063a42;
