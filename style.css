@@ -192,6 +192,7 @@
     width: 50%;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 20px 20px;
+    
 }
 .my-photo {
   border-radius: 50%;
@@ -199,4 +200,7 @@
 }
 #work-history {
   width: 100%;
+}
+.icons {
+  width: 16px;
 }
