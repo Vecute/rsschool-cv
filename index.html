@@ -14,8 +14,7 @@
             <nav class="nav">
                 <ul class="nav-list">
                   <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
-                  <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
-                  <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                  <li class="nav-item"><a href="#about-me" class="nav-link">About me</a></li>
                   <li class="nav-item"><a href="#work-history" class="nav-link">Work history</a></li>
                   <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
                   <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
@@ -28,7 +27,7 @@
         <div class="container main-container">
             <section class="section section-profile" id="profile">
                 <div>
-                    <img src="./assets/img/myphoto.png" alt="my photo" width="250">
+                    <p><img src="./assets/img/myphoto.png" alt="my photo" width="250"></p>
                 </div>
                     <div>
                         <h1 class="main-title">Gleb Khramtsov</h1>
@@ -41,34 +40,21 @@
             <section class="section" id="contacts">
                 <h2 class="section-title">Contacts</h2>
                 <ul class="contacts-list">
-                    <li><img src="./assets/icons/location.png" alt="Location" width="16px"> Location: Minsk, Belarus</li>
-                    <li><img src="./assets/icons/telephone.png" alt="Telephone" width="16px"> Mobile phone: +375(29)156-85-76</li>
-                    <li><img src="./assets/icons/email.png" alt="Email" width="16px"> Email: <a href="mailto:vecutemoffy@gmail.com" class="links">vecutemoffy@gmail.com</a></li>
-                    <li><img src="./assets/icons/telegram.png" alt="Telegram" width="16px"> Telegram: <a href="https://t.me/vecute" class="links">@vecute</a></li>
-                    <li><img src="./assets/icons/discord.png" alt="Discord" width="16px"> Discrord: <a href="https://discordapp.com/users/520414493839458314/" class="links">Vecute#3829</a></li>
-                    <li><img src="./assets/icons/github.png" alt="GitHub" width="16px"> GitHub: <a href="https://github.com/vecute" class="links">Vecute</a></li>
+                    <li><img src="./assets/icons/location.png" alt="Location" width="16px">  Location: Minsk, Belarus</li>
+                    <li><img src="./assets/icons/telephone.png" alt="Telephone" width="16px">  Mobile phone: +375(29)156-85-76</li>
+                    <li><img src="./assets/icons/email.png" alt="Email" width="16px">  Email: <a href="mailto:vecutemoffy@gmail.com" class="links nav-link">vecutemoffy@gmail.com</a></li>
+                    <li><img src="./assets/icons/telegram.png" alt="Telegram" width="16px">  Telegram: <a href="https://t.me/vecute" class="links nav-link">@vecute</a></li>
+                    <li><img src="./assets/icons/discord.png" alt="Discord" width="16px">  Discrord: <a href="https://discordapp.com/users/520414493839458314/" class="links nav-link ">Vecute#3829</a></li>
+                    <li><img src="./assets/icons/github.png" alt="GitHub" width="16px">  GitHub: <a href="https://github.com/vecute" class="links nav-link">Vecute</a></li>
                 </ul>
             </section>
-            <section class="section" id="summary">
-                <h2 class="section-title">Summary</h2>
+            <section class="section" id="about-me">
+                <h2 class="section-title">About me</h2>
                 <p>I have a long experience in providing technical assistance to users of computer games such as World of Tanks, World of Tanks Blitz in partnership with Wargaming.net. I also worked for a short time in the field of manual testing by Yandex. At the moment I am working as a "Media Platform Development Specialist", testing and introducing new functionality into A1 company's media platforms.</p>
                 <p>Fast learner, attentive and responsible.</p>
+                <p>I always try to develop and improve my skills. My next big step is frontend development.</p>
             </section>
-            <section class="section" id="code">
-                <h2 class="section-title">Code</h2>
-                <pre>.nav-link::after {
-    content: "";
-    display: block;
-    position: absolute;
-    background-color: red;
-    height: 1px;
-    width: 0%;
-    left: 50%;
-    transition: width .3s ease-in-out;
-    transform: translateX(-50%);
-}           </pre>
-            </section>
-            <section class="section" id="work-history">
+            <section class="section" id="work-history" class="work-history">
                 <h2 class="section-title">Work history</h2>
                 <div class="work">
                     <p><b>Media Platform Development Specialist</b> Jul 2022 - Present</p> 
@@ -103,7 +89,7 @@
                 </div>
                 <div class="work">
                     <p><b>Master</b> Aug 2017 - Oct 2017</p> 
-                    <p><b>JSC Road construction trust №3</b> - Mogilev, Belarus</p> 
+                    <p><b>JSC Road construction trust #3</b> - Mogilev, Belarus</p> 
                     <ul>
                         <li>Management of the technological process of road construction </li>
                         <li>Assignment of tasks to the working staff </li>
@@ -111,33 +97,31 @@
                     </ul>  
                 </div>
             </section>
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+                <p><b>Civil engineer</b></p>
+                <p><img src="./assets/icons/university.png" alt="Location" height="12px"> Belarusian-Russian University (Sep 2012 - Jul 2017)</p> 
+            </section>
+            <section class="section" id="english">
+                <h2 class="section-title">English</h2>
+                <p>C1 Advanced <a href="https://www.efset.org/cert/oFYArN" class="links nav-link"> EF CET Certificate</a></p>
+            </section>
             <section class="section skills" id="skills">
                 <h2 class="section-title">Skills</h2>
-                <ul class="skills-left">Soft
+                <ul class="skills-left"><b>Soft</b> 
                     <li>Fast learner</li>
                     <li>Attentive</li>
                     <li>Responsible</li>
                     <li>Team player</li>
                     <li>Stress-resistant</li>
                 </ul>
-                <ul class="skills-right">Hard
+                <ul class="skills-right"><b>Hard</b> 
                     <li>CSS, HTML5</li>
                     <li>Sniffers</li>
                     <li>YouTrack, Confluence, Jira, Zendesk</li>
                     <li>Adobe Photoshop, Autodesk Autocad</li>
                     <li>MS Office</li>
                 </ul>
-            </section>
-            <section class="section" id="education">
-                <h2 class="section-title">Education</h2>
-                <p><b>Civil engineer</b></p>
-                <p><img src="./assets/icons/university.png" alt="Location" height="12px"> Belarusian-Russian University</p> 
-                <p>Sep 2012 - Jul 2017</p>
-            </section>
-            <section class="section" id="english">
-                <h2 class="section-title">English</h2>
-                <p>C1 Advanced</p>
-                <p><a href="https://www.efset.org/cert/oFYArN" class="links"> EF CET Certificate</a></p>
             </section>
         </div>
     </main>
