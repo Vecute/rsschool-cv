@@ -60,6 +60,11 @@
   .nav-item a:hover {
     color: #063a42;
   }
+  .section:hover {
+    cursor: pointer;
+    box-shadow: 0 1px 40px rgb(0 0 0 / 70%);
+    border: 2px solid #063a42;
+  }
   .main-container {
     display: flex;
     flex-wrap: wrap;
@@ -144,7 +149,6 @@
     color: #157988;
     text-decoration: none;  
     transition: color 0.5s;
-    target: _blank;
 }
 .links:hover {
     color: #063a42;
