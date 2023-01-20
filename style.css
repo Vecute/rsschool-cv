@@ -220,3 +220,23 @@
 .icon-university {
   height: 12px;
 }
+.to-top-button {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  z-index: 9;
+}
+.to-top-button a {
+  height: 42px;
+  width: 42px;
+  text-align: center;
+  background: #157988;
+  display: block;
+  border-radius: 12px;
+}
+.to-top-button a span {
+  color: #77b6c0;
+  font-size: 30px;
+  line-height: 42px;
+  cursor: pointer;
+}
